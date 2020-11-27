@@ -1,0 +1,84 @@
+Name,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+Aksarben/Elmwood Park,41.24464000000006,-96.00184999999999,1.0,BBQ Joint,Taco Place,Concert Hall,Historic Site,Bar,Farmers Market,French Restaurant,Football Stadium,Food Truck,Food Court
+Aksarben Village,41.23894000000007,-96.01304999999996,0.0,Hotel,Lounge,Farmers Market,BBQ Joint,Cocktail Bar,Coffee Shop,Boutique,Taco Place,Sushi Restaurant,Bike Trail
+Applewood,41.29136664904856,-96.05918302293327,1.0,Gym,Taco Place,Social Club,Golf Course,Bar,Martial Arts School,Park,Zoo Exhibit,Food Truck,Food Court
+Baker Place,41.32960065118084,-96.07916155193448,7.0,Gym,Home Service,Playground,Zoo Exhibit,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Bemis Park,41.26997000000006,-95.96826999999996,0.0,Soccer Field,Intersection,Gym / Fitness Center,Convenience Store,Coffee Shop,Park,Brewery,Gas Station,Theater,Bakery
+Bennington,41.36472897976292,-96.01640019792222,3.0,Museum,Zoo Exhibit,Furniture / Home Store,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Benson,41.281420000000026,-96.01017999999999,1.0,Bar,Pub,Brewery,Lingerie Store,Music Venue,Diner,Noodle House,Taco Place,Bakery,Lounge
+Bent Creek,41.180508075328255,-96.18427124077566,2.0,Theme Park,Zoo Exhibit,Furniture / Home Store,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Blackstone,41.255400000000066,-95.97042999999996,1.0,Bar,Pizza Place,Cocktail Bar,Gastropub,Donut Shop,Brewery,Chinese Restaurant,Coffee Shop,Convenience Store,Record Shop
+Boys Town,41.25932000000006,-96.13128999999998,0.0,American Restaurant,Football Stadium,Concert Hall,Athletics & Sports,Baseball Field,Gym / Fitness Center,Zoo Exhibit,Fast Food Restaurant,Fried Chicken Joint,French Restaurant
+Briar Hills,41.18032005670494,-96.16082385778503,1.0,Pub,Soccer Field,Zoo Exhibit,Eye Doctor,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Bridlewood,41.25126810082932,-96.04046043561955,0.0,Music Venue,Cosmetics Shop,Farmers Market,Fried Chicken Joint,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Brookhaven,41.19178000000005,-96.09139999999996,0.0,Dance Studio,Gym / Fitness Center,Furniture / Home Store,Motorcycle Shop,Soccer Field,Park,Medical Supply Store,Gym,Sporting Goods Shop,Hotel
+Buena Vista,41.18681003860516,-95.97277488837614,1.0,Gaming Cafe,Bar,Health & Beauty Service,Smoke Shop,Eye Doctor,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Burlington Road,41.19989649903797,-96.02879536677897,0.0,Bowling Alley,Dive Bar,Country Dance Club,Korean Restaurant,Event Service,Mexican Restaurant,Film Studio,Furniture / Home Store,Fried Chicken Joint,French Restaurant
+Burnt District,41.260680000000036,-95.94025999999997,0.0,Sandwich Place,ATM,Hotel,American Restaurant,Gym / Fitness Center,Art Museum,Indie Theater,Café,Chinese Restaurant,Coffee Shop
+Cathedral Landmark District,41.260680000000036,-95.94025999999997,0.0,Sandwich Place,ATM,Hotel,American Restaurant,Gym / Fitness Center,Art Museum,Indie Theater,Café,Chinese Restaurant,Coffee Shop
+Carter Lake,41.29502767669106,-95.93144303663347,6.0,Golf Course,Zoo Exhibit,Furniture / Home Store,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Chalco,41.18321000000003,-96.13897999999995,4.0,Park,Intersection,Business Service,Shopping Plaza,Fried Chicken Joint,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Conestoga Place,41.275780000000054,-95.94541999999996,0.0,Discount Store,Art Gallery,Paper / Office Supplies Store,Coffee Shop,Zoo Exhibit,Farmers Market,French Restaurant,Football Stadium,Food Truck,Food Court
+Country Club,41.28136000000006,-95.99671999999998,1.0,Intersection,BBQ Joint,Gaming Cafe,Fried Chicken Joint,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Dahlman,41.24597000000006,-95.92535999999996,0.0,Pizza Place,Recording Studio,Italian Restaurant,Coffee Shop,Event Space,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Deer Park,41.22786000000008,-95.93417999999997,0.0,Zoo Exhibit,Park,Intersection,Sandwich Place,Sporting Goods Shop,Zoo,Hotel,Art Gallery,Burger Joint,Arts & Entertainment
+Dundee,41.26902000000007,-95.98790999999994,0.0,Deli / Bodega,Gas Station,Thai Restaurant,French Restaurant,Massage Studio,Coffee Shop,Pizza Place,Fast Food Restaurant,Convenience Store,Dive Bar
+Elkhorn,41.286284092160834,-96.24519720567694,4.0,Baseball Field,Park,Zoo Exhibit,Furniture / Home Store,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Elmwood Park,41.25603000000007,-96.02084999999994,0.0,Furniture / Home Store,Pizza Place,Hookah Bar,Paper / Office Supplies Store,Chinese Restaurant,Sandwich Place,Coffee Shop,Cosmetics Shop,Donut Shop,Pet Store
+Fairacres,41.26153000000005,-96.01390999999995,0.0,Intersection,Café,Arts & Entertainment,Theater,Lounge,Child Care Service,Music Venue,Film Studio,French Restaurant,Football Stadium
+Florence,41.33538000000004,-95.96585999999996,1.0,Tourist Information Center,History Museum,Bar,Pharmacy,Park,Wine Shop,American Restaurant,Food Truck,Food Court,Flower Shop
+Field Club,41.24527000000006,-95.96206999999998,1.0,Intersection,Historic Site,Garden,Social Club,Mexican Restaurant,Bar,Park,Brewery,Pool,Dog Run
+First National Business Park,41.21977000000004,-95.98138999999998,0.0,American Restaurant,Home Service,Automotive Shop,Fast Food Restaurant,Zoo Exhibit,Farmers Market,Fried Chicken Joint,French Restaurant,Football Stadium,Food Truck
+Fountain Hills,41.250971930263866,-96.16036122779813,0.0,Pizza Place,Coffee Shop,Video Store,Mexican Restaurant,Gas Station,Trail,Construction & Landscaping,Bank,Donut Shop,Vietnamese Restaurant
+Gifford Park,41.263780000000054,-95.96253999999999,1.0,Theater,Grocery Store,Hotel,Café,Mexican Restaurant,Bar,Zoo Exhibit,Fast Food Restaurant,Football Stadium,Food Truck
+Hanscom Park,41.235790000000065,-95.96341999999999,0.0,Italian Restaurant,Flower Shop,Construction & Landscaping,Dog Run,Scenic Lookout,Thrift / Vintage Store,Zoo Exhibit,Eye Doctor,Football Stadium,Food Truck
+Happy Hollow,41.26647492863047,-95.99634397408997,0.0,Pizza Place,Intersection,Athletics & Sports,Salon / Barbershop,Sculpture Garden,Tailor Shop,Bakery,Trail,Boutique,Italian Restaurant
+Hillsborough,41.29530941102001,-96.14001189877933,0.0,Pizza Place,Fast Food Restaurant,Salon / Barbershop,Intersection,Gym / Fitness Center,Multiplex,Chinese Restaurant,Discount Store,Breakfast Spot,Coffee Shop
+Howard Street Apartment District,41.25393865919922,-96.18930012910795,0.0,Gift Shop,Spa,Zoo Exhibit,Fried Chicken Joint,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Huntington Park,41.28010000000006,-96.16400999999996,0.0,BBQ Joint,Playground,Café,Trail,Park,Zoo Exhibit,Football Stadium,Food Truck,Food Court,Flower Shop
+Irvington,41.34359649013398,-96.08132351334629,5.0,Garden,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Keystone,41.29657000000003,-96.03665999999998,4.0,American Restaurant,Park,Zoo Exhibit,Farmers Market,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Kountze Place,41.260680000000036,-95.94025999999997,0.0,Sandwich Place,ATM,Hotel,American Restaurant,Gym / Fitness Center,Art Museum,Indie Theater,Café,Chinese Restaurant,Coffee Shop
+La Vista,41.18681003860516,-95.97277488837614,1.0,Gaming Cafe,Bar,Health & Beauty Service,Smoke Shop,Eye Doctor,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Leavenworth,41.25284000000005,-95.96140999999994,1.0,Bar,Intersection,Locksmith,Gaming Cafe,Music Venue,Flower Shop,Fish Market,Park,Dry Cleaner,Playground
+Little Bohemia,41.260680000000036,-95.94025999999997,0.0,Sandwich Place,ATM,Hotel,American Restaurant,Gym / Fitness Center,Art Museum,Indie Theater,Café,Chinese Restaurant,Coffee Shop
+Little Italy,41.260680000000036,-95.94025999999997,0.0,Sandwich Place,ATM,Hotel,American Restaurant,Gym / Fitness Center,Art Museum,Indie Theater,Café,Chinese Restaurant,Coffee Shop
+Maple Village,41.28471003905159,-95.94938496170273,0.0,Art Gallery,Plaza,Performing Arts Venue,Zoo Exhibit,Eye Doctor,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop
+Meridian Park,41.17216828201133,-96.17635918256781,1.0,Intersection,Soccer Field,Deli / Bodega,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Midtown Crossing,41.259600000000034,-95.96101999999996,1.0,Bar,Park,Pharmacy,Sushi Restaurant,Beer Store,Bubble Tea Shop,Shopping Plaza,Burger Joint,Salon / Barbershop,Coffee Shop
+Millard,41.20814000000007,-96.12122999999997,1.0,Baseball Field,Bar,Dive Bar,Intersection,Ice Cream Shop,Mediterranean Restaurant,Gastropub,Fried Chicken Joint,Music Store,Fast Food Restaurant
+Miller Park,41.31466000000006,-95.95651999999995,4.0,Convenience Store,Mobile Phone Shop,Golf Course,Park,Pawn Shop,Zoo Exhibit,Farmers Market,Food Truck,Food Court,Flower Shop
+Minne Lusa,41.318463741630026,-95.95144910455012,0.0,Pawn Shop,Cupcake Shop,Discount Store,Home Service,Mobile Phone Shop,Park,Golf Course,Zoo Exhibit,Food Truck,Food Court
+Morton Meadows,41.24744000000004,-95.98317999999995,0.0,Pharmacy,Art Gallery,Financial or Legal Service,Cheese Shop,Historic Site,Fast Food Restaurant,Eye Doctor,Football Stadium,Food Truck,Food Court
+Mockingbird Heights,41.20949000000007,-96.05326999999994,1.0,Construction & Landscaping,Home Service,Park,Bar,Coffee Shop,Zoo Exhibit,Farmers Market,Football Stadium,Food Truck,Food Court
+Oak Heights,41.19319960271103,-96.04085946720193,0.0,Pharmacy,Intersection,Convenience Store,Fried Chicken Joint,Diner,Bookstore,Gas Station,Betting Shop,Fast Food Restaurant,Park
+Old Market Historic District,41.25445000000008,-95.93651999999997,0.0,Coffee Shop,Gay Bar,Sandwich Place,Sushi Restaurant,Steakhouse,Gastropub,Hotel,Bar,American Restaurant,Seafood Restaurant
+Omaha View,41.28309000000007,-95.96014999999994,4.0,Southern / Soul Food Restaurant,Park,Pharmacy,Zoo Exhibit,Eye Doctor,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Orchard Hill,41.274500000000046,-95.97268999999994,0.0,Bookstore,Garden,Construction & Landscaping,Spa,Electronics Store,Theater,Zoo Exhibit,Fast Food Restaurant,Football Stadium,Food Truck
+Original Montclair (Omaha),41.27007000000003,-95.95712999999995,1.0,Intersection,Planetarium,Eye Doctor,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Papillion,41.28578073370278,-96.09305943938932,4.0,Park,Event Space,Gym,Jewelry Store,Dog Run,Track,Football Stadium,Food Truck,Food Court,Flower Shop
+Park Avenue,41.257850077464354,-95.95586470491055,0.0,Fast Food Restaurant,Hotel,Gym,Gaming Cafe,Clothing Store,Lounge,Sushi Restaurant,Gastropub,Mexican Restaurant,Tennis Court
+Park East,41.254440000000045,-95.95334999999994,0.0,Deli / Bodega,Thrift / Vintage Store,Food Truck,Antique Shop,Art Gallery,Plaza,Arts & Crafts Store,Fast Food Restaurant,Dry Cleaner,Pizza Place
+Pepperwood,41.267074190086326,-96.1537123398819,0.0,ATM,Bakery,Pharmacy,Dry Cleaner,Coffee Shop,Sandwich Place,Shopping Plaza,Burger Joint,French Restaurant,Breakfast Spot
+Prospect Hill,41.276440000000036,-95.96225999999996,0.0,Lawyer,Coffee Shop,Zoo Exhibit,Eye Doctor,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Ralston,41.19502863985841,-96.03833582371077,4.0,Park,Convenience Store,Insurance Office,Ice Cream Shop,Outdoors & Recreation,Pharmacy,Pizza Place,Video Game Store,Gas Station,Film Studio
+Raven Oaks,41.34079000000003,-96.00051999999994,7.0,Home Service,Zoo Exhibit,Eye Doctor,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Roanoke,41.30344082252865,-96.09097733175886,4.0,Pool,Park,Zoo Exhibit,Farmers Market,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Robin Hill,41.19596526668107,-96.04073321726642,4.0,Park,Insurance Office,Ice Cream Shop,Convenience Store,Baseball Field,Farmers Market,Football Stadium,Food Truck,Food Court,Flower Shop
+Royalwood Estates,41.23628562068275,-96.11363068262331,0.0,Furniture / Home Store,Sandwich Place,Department Store,Auto Garage,Miscellaneous Shop,Taco Place,Shoe Store,Bagel Shop,Liquor Store,Gym / Fitness Center
+Regency,41.26396004586514,-96.0682279202011,0.0,Clothing Store,Shoe Store,Sporting Goods Shop,Accessories Store,Cosmetics Shop,Optical Shop,Gift Shop,Jewelry Store,Lingerie Store,Chinese Restaurant
+Roxbury,41.20349988608434,-96.08618984161046,0.0,Supermarket,Fried Chicken Joint,Arcade,Mexican Restaurant,Auto Garage,Fast Food Restaurant,Gymnastics Gym,Farmers Market,French Restaurant,Football Stadium
+Saratoga,41.30481000000003,-95.94512999999995,1.0,Nightlife Spot,Bar,Zoo Exhibit,Furniture / Home Store,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Sheelytown,41.260680000000036,-95.94025999999997,0.0,Sandwich Place,ATM,Hotel,American Restaurant,Gym / Fitness Center,Art Museum,Indie Theater,Café,Chinese Restaurant,Coffee Shop
+South Omaha Main Street Historic District,41.20153322074509,-96.03332673461082,4.0,Park,Bowling Alley,Dive Bar,Baseball Field,Mexican Restaurant,Outdoors & Recreation,Fried Chicken Joint,French Restaurant,Football Stadium,Food Truck
+Sporting District,41.260680000000036,-95.94025999999997,0.0,Sandwich Place,ATM,Hotel,American Restaurant,Gym / Fitness Center,Art Museum,Indie Theater,Café,Chinese Restaurant,Coffee Shop
+Spring Lake,41.21917672508477,-95.93617902416294,0.0,Pool,Construction & Landscaping,Playground,Spa,Golf Course,Zoo Exhibit,Eye Doctor,Food Truck,Food Court,Flower Shop
+Squatter's Row,41.260680000000036,-95.94025999999997,0.0,Sandwich Place,ATM,Hotel,American Restaurant,Gym / Fitness Center,Art Museum,Indie Theater,Café,Chinese Restaurant,Coffee Shop
+Sunny Slope,41.29888386384586,-96.08009612146715,4.0,Park,Pool,Construction & Landscaping,Zoo Exhibit,Eye Doctor,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market
+Trendwood,41.243909023730644,-96.12162664982789,0.0,Rock Club,Plaza,Playground,Baseball Field,Zoo Exhibit,Eye Doctor,Football Stadium,Food Truck,Food Court,Flower Shop
+Valley,41.226181220430384,-96.15165479074922,0.0,Gym,IT Services,Construction & Landscaping,Tennis Court,Hardware Store,Park,Baseball Field,Pet Store,Eye Doctor,Food Court
+Vinton Street Commercial Historic District,41.229189483306165,-96.20619421476766,1.0,Hardware Store,Fast Food Restaurant,Furniture / Home Store,French Restaurant,Football Stadium,Food Truck,Food Court,Flower Shop,Fish Market,Financial or Legal Service
+Walnut Hill,41.27049000000005,-95.97609999999997,0.0,Intersection,Bakery,Diner,Gas Station,Construction & Landscaping,Soccer Field,Coffee Shop,Gym,Food Truck,Food Court
+Waterloo,41.28795000000008,-96.28908999999999,1.0,Gym / Fitness Center,Flower Shop,Tex-Mex Restaurant,Baseball Field,Bar,Furniture / Home Store,French Restaurant,Football Stadium,Food Truck,Food Court
+Westgate,41.226310050686024,-96.03268487659874,0.0,Baseball Field,Event Service,Pet Store,Grocery Store,Zoo Exhibit,Fast Food Restaurant,French Restaurant,Football Stadium,Food Truck,Food Court
+Westside,41.260680000000036,-95.94025999999997,0.0,Sandwich Place,ATM,Hotel,American Restaurant,Gym / Fitness Center,Art Museum,Indie Theater,Café,Chinese Restaurant,Coffee Shop
